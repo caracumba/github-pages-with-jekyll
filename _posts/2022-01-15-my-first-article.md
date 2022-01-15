@@ -1,3 +1,8 @@
+---
+title: "Artikel **Wenn das nicht/kein(e) X ist/sind [!]**"
+date: 2022-01-15
+---
+
 `<function="семантическое поле">` Behauptung der Identität 
 
 `<lemma name="ФК">` **Wenn das nicht/kein(e) X ist/sind [!]**
